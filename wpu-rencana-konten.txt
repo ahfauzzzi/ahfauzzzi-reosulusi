@@ -1,6 +1,9 @@
 Rencan Konten WPU
 
 -Javascript
+ * ES6
+ * Framework Javascript
+- Struktur data dasar
 -PHP Frameworks
 -Interview
 -Vlog

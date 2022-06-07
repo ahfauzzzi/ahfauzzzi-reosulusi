@@ -1,4 +1,7 @@
 WPU RESOLUSI
+-Java Script
+ * ES6
+ * Framework Java Script
 - Konsisten untuk membuat konetn 2x seminggu
 - Membuat platfrom untuk pengelolaan video
 - Membuat forum diskusi
